@@ -1,3 +1,3 @@
-# This is my CODSOFT internship project
+# This is a Basic Calculator created using HTML, CSS and JavaScript
 
  
